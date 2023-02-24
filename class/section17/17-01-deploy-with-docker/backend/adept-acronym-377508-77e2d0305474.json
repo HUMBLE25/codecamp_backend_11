@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adept-acronym-377508",
+  "private_key_id": "77e2d0305474d0656a192dca4ccf357d438b9614",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYcVDAfto83cLw\nKd/Hfi0GOK/GSZG3eyU7oubGfi7wh5cMil0H8kybqxMNd/kifrC9fK13H4waYSYW\nL14+x2LSXO9zR7wMgnMy4j0EKJZ/UYs/xdUbaUw5NJ4XbYquyaT/1kxG1zXN/XZO\npMqpfwfAxdLQ/ZwwS8PZVMPdSoO7w+G16jlUrEZosQDlcRxFgDgjDP+K0ZU0dUKH\nN7sRQdUebWITmRJfJM6+UzFdtFPdfOPm6QFPbP9dMwSb0SD937AP6LPseI0fxXb0\nngpr//NlVPKuRLbzj9FONpz/VCx2Vn0V1QtYdBMDjj1Eny7oPowc3T3YZQ2kNPYa\nSR3rq5RLAgMBAAECggEAVdif4DGQCqskWdAp9zx2zCxonztnxb/clSo34QuEP5dv\n1CP+4Rt7whRY0rM+h617GTTdsk07au0UR6FS/pBjhC8jM/SEQ+vrmAd+juswQeBM\nXCdxrlUVy+ywNXeXlVraDDTpfQF30DNTHL8kuJRvNUjhJE4qiEdMryL9KoSW+j3s\ngNmex5NXzZZ+KUaC5qhKauN5l02ABqGcKfQHgQLPI5BS5puajDmLWBqOB6iwMFJA\nTlPQhbXjbM4pO648Dgat/DgBiydmPsgC/v6SUYhmcpLYzhw6kuEouzDlvxjhrZ4f\nxrFQfEAtvfj3nhyqFyZ3SLzkNHDkxG2rPziYZfF2aQKBgQD41R+qT4R8hn55nEDW\nvoFLOWHz0A6hhXx8OYw3P00xQwElFoLb7llR5tY433oAE2Rf26X2L5NVlDTzeSdZ\ndsDfPsdLwKWS1l1TdW+u8DfDVmTvqLCk1V0Ai+2z/ILJV6vWEOQKGRBhO0DpsROa\nkvV2JAI5n8DdP9dV8U+Hr0p0eQKBgQDerVnH6KM2cM1rjK8xouosdY3UgW/PwmWW\nzYrhx8xyRogjxFlOCN8SKj3+DO6gnk81dgtYmSqXx6q+Cg1EjvAX/7CeNDxD6wtv\nkocsjIXBC4WoZS76U9s8TWez1+L0U+pEA1IIHIiXpcudSFkoTjVtuyl9psM/4DZz\ndpQj2AN14wKBgQD157i5WIf3f/pxOAejsPSZYIX6qrwqx340TbLRzk78xdjVzB9a\nNXwzwkomPkOU25UwXiLu3ileQ27oxewrL35/oMzXgfSe3hWwqrfKTD7vXeu2JCEd\nZHXaWm54lqyxSWDZ1itmB0r2q9YEnChhc6X8MK26QLQackLd/fG4h3SvEQKBgQDG\n9uGny+g5tqT1mijYExdmTktCO71qR+p5yoJzpxC4cukl/EVHgom/M1tc6rU1cv6X\naDhPG9yA7flUAKtGPOmup9pqIYZPsW7wbF63oX/Js7/jbTWCmvbjdM5aVWYGpgxG\nZSkg8k3iIlRC3ug7KVZ4C6nRCfaf1nkQxj0rodHFvQKBgAEJFazNpFyc4FguxbU4\nKBp/UzOimaqyhBRgJGBAzExShnXessVexlRWrpyHNiwZ45P2WTfZAyVryrWkSU+C\nJhU8R6pweU1Fyj9QtpVA2pXPAOwFDHj6RnBcXQ7sYAyNJa4qQpHCBfRUNfrckzFF\nnTpWzG7/Ep4tRFK1pm2W4/sB\n-----END PRIVATE KEY-----\n",
+  "client_email": "code-camp-be-28@adept-acronym-377508.iam.gserviceaccount.com",
+  "client_id": "100376455184839667909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/code-camp-be-28%40adept-acronym-377508.iam.gserviceaccount.com"
+}
